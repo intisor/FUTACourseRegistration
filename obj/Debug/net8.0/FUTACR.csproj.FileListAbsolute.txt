@@ -1,0 +1,14 @@
+C:\Users\MY PC\Desktop\FUTACR\obj\Debug\net8.0\FUTACR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\FUTACR\obj\Debug\net8.0\FUTACR.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\FUTACR\obj\Debug\net8.0\FUTACR.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\FUTACR\obj\Debug\net8.0\FUTACR.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\FUTACR\bin\Debug\net8.0\FUTACR.exe
+C:\Users\MY PC\Desktop\FUTACR\bin\Debug\net8.0\FUTACR.deps.json
+C:\Users\MY PC\Desktop\FUTACR\bin\Debug\net8.0\FUTACR.runtimeconfig.json
+C:\Users\MY PC\Desktop\FUTACR\bin\Debug\net8.0\FUTACR.dll
+C:\Users\MY PC\Desktop\FUTACR\bin\Debug\net8.0\FUTACR.pdb
+C:\Users\MY PC\Desktop\FUTACR\obj\Debug\net8.0\FUTACR.dll
+C:\Users\MY PC\Desktop\FUTACR\obj\Debug\net8.0\refint\FUTACR.dll
+C:\Users\MY PC\Desktop\FUTACR\obj\Debug\net8.0\FUTACR.pdb
+C:\Users\MY PC\Desktop\FUTACR\obj\Debug\net8.0\FUTACR.genruntimeconfig.cache
+C:\Users\MY PC\Desktop\FUTACR\obj\Debug\net8.0\ref\FUTACR.dll
