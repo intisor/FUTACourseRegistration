@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FUTACR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c1e52617240a51ec63f17f4dae46c687de03059")]
 [assembly: System.Reflection.AssemblyProductAttribute("FUTACR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FUTACR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
